@@ -7,7 +7,13 @@
       "currentSubs": 704,
       "updatedAt": "2026-09-16",
       "weekBaselineSubs": 704,
-      "weekResetAt": "2026-09-16"
+      "weekResetAt": "2026-09-16",
+      "history": [
+        {
+          "date": "2026-09-16",
+          "subs": 704
+        }
+      ]
     },
     {
       "id": "starks",
@@ -16,7 +22,13 @@
       "currentSubs": 103,
       "updatedAt": "2026-09-16",
       "weekBaselineSubs": 103,
-      "weekResetAt": "2026-09-16"
+      "weekResetAt": "2026-09-16",
+      "history": [
+        {
+          "date": "2026-09-16",
+          "subs": 103
+        }
+      ]
     }
   ],
   "payoutTiers": {
@@ -101,7 +113,13 @@
       "baselineFollowers": 59,
       "currentFollowers": 59,
       "following": 2,
-      "posts": 264
+      "posts": 264,
+      "history": [
+        {
+          "date": "2026-09-16",
+          "followers": 59
+        }
+      ]
     },
     {
       "id": "poloybon",
@@ -112,7 +130,13 @@
       "baselineFollowers": 80,
       "currentFollowers": 80,
       "following": 3,
-      "posts": 278
+      "posts": 278,
+      "history": [
+        {
+          "date": "2026-09-16",
+          "followers": 80
+        }
+      ]
     },
     {
       "id": "ava0dvcv",
@@ -120,7 +144,8 @@
       "handle": "ava0dvcv",
       "flagged": true,
       "suspended": true,
-      "checkedAt": "2026-09-16T13:10:00Z"
+      "checkedAt": "2026-09-16T13:10:00Z",
+      "history": []
     },
     {
       "id": "cheer0595",
@@ -131,7 +156,13 @@
       "baselineFollowers": 5938,
       "currentFollowers": 5938,
       "following": 3,
-      "posts": 318
+      "posts": 318,
+      "history": [
+        {
+          "date": "2026-09-16",
+          "followers": 5938
+        }
+      ]
     },
     {
       "id": "lairdrop3",
@@ -142,7 +173,13 @@
       "baselineFollowers": 549,
       "currentFollowers": 549,
       "following": 12,
-      "posts": 563
+      "posts": 563,
+      "history": [
+        {
+          "date": "2026-09-16",
+          "followers": 549
+        }
+      ]
     },
     {
       "id": "clarkstphanie3",
@@ -153,7 +190,13 @@
       "baselineFollowers": 116,
       "currentFollowers": 116,
       "following": 6,
-      "posts": 270
+      "posts": 270,
+      "history": [
+        {
+          "date": "2026-09-16",
+          "followers": 116
+        }
+      ]
     },
     {
       "id": "Oksananochka",
@@ -164,7 +207,13 @@
       "baselineFollowers": 142,
       "currentFollowers": 142,
       "following": 13,
-      "posts": 292
+      "posts": 292,
+      "history": [
+        {
+          "date": "2026-09-16",
+          "followers": 142
+        }
+      ]
     },
     {
       "id": "chyntarasondra",
@@ -175,7 +224,13 @@
       "baselineFollowers": 179,
       "currentFollowers": 179,
       "following": 8,
-      "posts": 329
+      "posts": 329,
+      "history": [
+        {
+          "date": "2026-09-16",
+          "followers": 179
+        }
+      ]
     }
   ],
   "baselineDate": "2026-09-16"
